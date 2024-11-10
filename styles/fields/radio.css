@@ -1,3 +1,7 @@
+.input-wrapper + .input-wrapper {
+    margin-top: 1.5rem;
+}
+
 label + .radio-wrapper {
     margin-top: 1rem;
 }
