@@ -50,11 +50,13 @@ select {
 
 .address .flex {
     gap: 1.25rem;
+    align-items: center;
 }
 
 .input-wrapper:has([disabled]) {
     opacity: .75;
 }
+
 
 input {
     &[disabled] {

@@ -1,10 +1,8 @@
-.input-wrapper + .input-wrapper {
-    margin-top: 1.5rem;
-}
-
 label + .radio-wrapper {
     margin-top: 1rem;
+    margin-bottom: 1rem;
 }
+
 
 .radio-wrapper {
     display: grid;
